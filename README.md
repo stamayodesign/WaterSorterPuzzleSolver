@@ -14,8 +14,8 @@ This project was made in Visual Studio from August 2022 - September 2022. The ap
 
 There are many different versions of this idea out there, but the basics are that you have multiple containers (in this application refered to as "tubes") with sections of water that have been mixed up. You can move the top most color of a tube to an empty tube or another tube with an open section, as long as the color you are moving matches the top most color in the receving tube. *In this application, two or more touching colors move as a singular unit with one step. You cannot split up touching colors after joining them.* You repeat this process until all colors are each matched in a singular tube.
 
-An example of movement in a Water Sorter Puzzle (using this application UI:
-<!-- Insert GIF of an example game zoomed in> -->
+An example of movement in a Water Sorter Puzzle (using this application UI): <br/>
+<img src="images/wsps_exampleWSP.gif" width="300" alt="Example of a Water Sorter Puzzle being solved"/>
 
 # Using the App (Main Window part 1)
 
