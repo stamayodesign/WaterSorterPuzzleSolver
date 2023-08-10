@@ -43,8 +43,8 @@ Basics of Window (Default)
 Clearing Puzzle Configuration
 Randomizing Tubes 
 Adjusting puzzle's three factors
-Using "Cursor Color Drop Mode"
 Changing the colors used
+Using "Cursor Color Drop Mode"
 
 ## Basics of Window (Default)
 
@@ -102,15 +102,53 @@ Increasing the number of colors will add another tube to the configuration. It w
 
 <!-- Insert GIF putting a color in the right most tube (8), then increase the number of colors by 1-->
 
-###Decreating the number of colors 
-
-Decreating the number of colors will remove a tube from the configuration, as well as removing all of that color from tubes. If the tubes are mixed, this can create many air pockets. (Reminder that you can hit the Random Tubes or even Gravity Falls button to fix this issue).
+Decreasing the number of colors will remove a tube from the configuration, as well as removing all of that color from tubes. If the tubes are mixed, this can create many air pockets. (Reminder that you can hit the Random Tubes or even Gravity Falls button to fix this issue).
 
 <!-- Insert GIF decreating the colors to 4, then Hit Gravity Falls, Followed by random Tubes-->
-
-###Inputting your own number
 
 You can also insert a number into the field. The field will adjust if the number is lower than 2 or higher than 15 as per creator-based limitations.
 
 <!-- Insert GIF changing the number to 0, then 60, then 4, and finally Random Tubes-->
+
+### Number of Empty Tubes
+
+Increasing the number of empty tubes will add another tube to the end of the configuration. Decreasing the number will remove the right most tube, regardless if it is empty or not.
+
+<!-- Insert GIF increasing number of empty tubes by one, then decreasing by 1,, then increasing it by 1, then putting a few colors in the right most tube, then decreaing it by 1-->
+
+You can also insert a number into the field. The field will adjust if the number is lower than 2 or higher than 4 as per creator-based limitations.
+
+<!-- Insert GIF changing the empty tube to 10, then 0, which will default to 2, and finally Random Tubes-->
+
+### Number of Sections
+
+Increasing the number of sections will add another section to the top of every tube. This new section will always be empty. Decreasing the number will remove the bottom of every tube.
+
+<!-- Insert GIF decreasing the number of sections by 1, then increasing it back to 5. -->
+
+You can also insert a number into the field. The field will adjust if the number is lower than 3 or higher than 5 as per creator-based limitations.
+
+<!-- Insert GIF changing the  number of sections to 0, then 30, which will default to 5, and finally Random Tubes-->
+
+## Changing the colors used
+
+You can change the colors used for each number by clicking the box of the color underneath "Available Colors", which opens a color selector. Note that changing the color here changes it in the whole application regardless if you Verify the configuration.
+
+<!-- Insert GIF of changing color number 4 to black, canceling out of the Input Tubes and showing the old puzle's color has changed.-->
+
+You can change this back by Hitting the "Restore Default Colors" in the Main Window.
+
+<!-- Insert GIF of clicking that restore default colors button-->
+
+## Using "Cursor Color Drop Mode"
+
+In the bottom right of the "Input Tubes" window is the "Cursor Color Drop Mode" button. When you click it, a white box with "O" within will appear next to it. This signifys that this mode is turned active. 
+
+In this mode, clicking tube sections will no longer display all color options, but turn that section into whichever color is displayed in the box next to the mode button. In order to change the color selected, click one of the boxes under the "Available Colors". The color display at the bottom will change to match the chosen color. In addition, right clicking on a tube section will turn it into an empty section.
+
+<!-- Insert GIF clicking the cursor color mode. Then click color 1 and change some sections. THen right click a few sections.-->
+
+You can still right click the available colors to change the color. 
+
+<!-- Insert GIF of changing color number 4 to black, canceling out of the Input Tubes and showing the old puzle's color has changed.-->
 
