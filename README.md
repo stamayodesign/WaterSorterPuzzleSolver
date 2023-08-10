@@ -87,3 +87,30 @@ You can also randomize the tubes based on the current puzzle's three factors (nu
 <!-- Insert GIF clicking Random Tubes -->
 
 **Note that adjusting the three factors here works differently than the main window and will be covered in the next section.**
+
+## Adjusting puzzle's three factors
+
+In the top left section of the "Input Tubes" section are the three factors that adjust the base of a water puzzle's configuration. In this window, adjusting each one will automatically change the input tube's configuration, affecting the current configuration.
+
+###Number of Colors:
+
+Increasing the number of colors will add another tube to the configuration. It will add it to the right of the last tube with color in it. By default it will add an empty tube. There is a check box below the display "Add Colors To Tubes Right Away" which if check will add a filled tube. You can then randomize the tubes to shuffle the colors.
+
+<!-- Insert GIF increasing the number of colors by 1 with checkbox off, then decrease number of colors by 1, check the box, then increase the number by 1, then 1 more, then randomize -->
+
+**If there is an empty tube between tubes with color, the color one will shift over.**
+
+<!-- Insert GIF putting a color in the right most tube (8), then increase the number of colors by 1-->
+
+###Decreating the number of colors 
+
+Decreating the number of colors will remove a tube from the configuration, as well as removing all of that color from tubes. If the tubes are mixed, this can create many air pockets. (Reminder that you can hit the Random Tubes or even Gravity Falls button to fix this issue).
+
+<!-- Insert GIF decreating the colors to 4, then Hit Gravity Falls, Followed by random Tubes-->
+
+###Inputting your own number
+
+You can also insert a number into the field. The field will adjust if the number is lower than 2 or higher than 15 as per creator-based limitations.
+
+<!-- Insert GIF changing the number to 0, then 60, then 4, and finally Random Tubes-->
+
