@@ -152,3 +152,18 @@ You can still right click the available colors to change the color.
 
 <!-- Insert GIF of changing color number 4 to black, canceling out of the Input Tubes and showing the old puzle's color has changed.-->
 
+# Additional features
+
+##Save Config and Load
+
+Everytime you close the application, the current puzzle configuration will be saved. You can also manually save a configuration by clicking the "Save Config" save. This configuration can be loaded in with the "Load" button. Until you leave the app, you can return to that load.
+
+<!-- Insert GIF of Saving a Config, hitting and messing with Random Tubes and features, then Load-->
+
+##Color Blind Mode
+
+In the top left corner is a "Color Blind Mode checkbox". This will change the default colors to a palette for people with deuteranopia or protanopia. The colors were found from this blog post: https://jacksonlab.agronomy.wisc.edu/2016/05/23/15-level-colorblind-friendly-palette/ As a note, most of the colors for the default color palette were also chosen from this palette.
+
+<!-- Insert GIF Toggling the color blind mode off and on-->
+
+<!-- Insert IMAGE color pallet -->
