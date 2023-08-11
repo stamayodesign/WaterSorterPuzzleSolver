@@ -15,6 +15,7 @@ This project was made in Visual Studio from August 2022 - September 2022. The ap
 [B. Using the App (Main Window - General)](#pt2)<br/>
 [C. Using the App (Input Tubes Window)](#pt3)<br/>
 [D. Additional features](#pt4)<br/>
+[E. Download Link](#pt5)<br/>
 
 
 # <a name="pt1"></a>A. What is a Water Sorter Puzzle?
@@ -91,7 +92,7 @@ These issues display for the user's sake. Additionally, the "Verify" button will
 <!-- Insert GIF clicking the Verify button, then OK, then returning to the main menu, then clicking edit tubes, verify, and cancel -->
 <img src="images/wsps_2-BasicsOfInputWindow5.gif" width="500"/>
 
-The "Cancel" button will close the window just like the "X" button in the top right of the window. Either one of these will not transfer the current input configuration to the main window (but color configurations will remain, explained in [this section](#pt4).
+The "Cancel" button will close the window just like the "X" button in the top right of the window. Either one of these will not transfer the current input configuration to the main window (but color configurations will remain, explained in [this section](#pt4-2).
 
 <!-- Insert GIF making random changes, then hitting the cancel button to return to the main window, then hit edit tube to show none of the changes remain-->
 <img src="images/wsps_2-BasicsOfInputWindow6.gif" width="500"/>
@@ -221,7 +222,7 @@ Every time you close the application, the current puzzle configuration will be s
 <!-- Insert GIF of Saving a Config, hitting and messing with Random Tubes and features, then Load-->
 <img src="images/wsps_8-SaveAndLoadConfig.gif" width="500"/>
 
-## Color Blind Mode
+## <a name="pt4-2">Color Blind Mode
 
 In the top left corner is a "Color Blind Mode checkbox". This will change the default colors to a palette for people with deuteranopia or protanopia. The colors were found from this blog post: https://jacksonlab.agronomy.wisc.edu/2016/05/23/15-level-colorblind-friendly-palette/ As a note, most of the colors for the default color palette were also chosen from this palette.
 
@@ -232,5 +233,13 @@ In the top left corner is a "Color Blind Mode checkbox". This will change the de
 <!-- Insert IMAGE color pallet -->
 <img src="images/colorpie.png" width="150"/>
 </p>
+
+[Jump to Top](#top)<br/>
+
+# <a name="pt5"></a>E. Download Link
+
+The latest version of this executable is located on my Google Drive:
+<br/>
+<a href="https://drive.google.com/file/d/15XVyOGxJ5UAIWHBapzXDwnR4mdtS1C5y/view?usp=drive_link">Google Drive Link to .exe</a>
 
 [Jump to Top](#top)<br/>
